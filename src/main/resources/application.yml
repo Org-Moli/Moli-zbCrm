@@ -1,7 +1,7 @@
 spring:
     datasource:
         name: test
-        url: jdbc:mysql://127.0.0.1:3306/simple
+        url: jdbc:mysql://127.0.0.1:3306/imory_zb
         username: zb.jiang
         password: zb.jiang
         # 使用druid数据源

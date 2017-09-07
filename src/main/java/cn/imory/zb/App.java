@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
  * @Date 2017/9/7
  */
 @SpringBootApplication
-@EntityScan
+@EntityScan(basePackages = "cn.imory.zb")
 public class App {
 
     public static void main(String args[])
