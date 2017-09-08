@@ -1,6 +1,6 @@
-package cn.imory.zb.controller.test.dao;
+package cn.imory.zb.test.dao;
 
-import cn.imory.zb.controller.test.bean.CrmDemo;
+import cn.imory.zb.test.bean.CrmDemo;
 import org.springframework.data.repository.CrudRepository;
 
 /**

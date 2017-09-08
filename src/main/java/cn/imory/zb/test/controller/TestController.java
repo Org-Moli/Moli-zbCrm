@@ -1,4 +1,4 @@
-package cn.imory.zb.controller.test.controller;
+package cn.imory.zb.test.controller;
 
 import org.apache.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;

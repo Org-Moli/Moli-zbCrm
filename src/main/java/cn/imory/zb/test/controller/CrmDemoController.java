@@ -1,7 +1,7 @@
-package cn.imory.zb.controller.test.controller;
+package cn.imory.zb.test.controller;
 
-import cn.imory.zb.controller.test.bean.CrmDemo;
-import cn.imory.zb.controller.test.service.CrmDemoService;
+import cn.imory.zb.test.bean.CrmDemo;
+import cn.imory.zb.test.service.CrmDemoService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

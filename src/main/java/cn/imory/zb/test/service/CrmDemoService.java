@@ -1,6 +1,6 @@
-package cn.imory.zb.controller.test.service;
+package cn.imory.zb.test.service;
 
-import cn.imory.zb.controller.test.bean.CrmDemo;
+import cn.imory.zb.test.bean.CrmDemo;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

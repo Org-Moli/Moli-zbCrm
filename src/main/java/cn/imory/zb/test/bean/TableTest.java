@@ -1,4 +1,4 @@
-package cn.imory.zb.controller.test.bean;
+package cn.imory.zb.test.bean;
 
 /**
  * <p>名称</p>
