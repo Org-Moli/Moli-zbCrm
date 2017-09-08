@@ -1,4 +1,4 @@
-package cn.imory.zb.controller.test.bean.dao;
+package cn.imory.zb.controller.test.dao;
 
 import org.apache.ibatis.annotations.Mapper;
 
