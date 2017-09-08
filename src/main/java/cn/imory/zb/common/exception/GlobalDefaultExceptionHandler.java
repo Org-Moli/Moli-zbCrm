@@ -1,4 +1,4 @@
-package cn.imory.zb.exception;
+package cn.imory.zb.common.exception;
 
 import org.apache.log4j.Logger;
 import org.springframework.web.bind.annotation.ControllerAdvice;
