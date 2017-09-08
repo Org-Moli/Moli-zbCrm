@@ -1,7 +1,9 @@
+DROP TABLE IF EXISTS `table_test`;
 CREATE TABLE table_test(
   id int PRIMARY KEY AUTO_INCREMENT,
   tbName VARCHAR(20)
 );
+DROP TABLE IF EXISTS `log_icecoldmonitor`;
 CREATE TABLE `log_icecoldmonitor` (
   `Id` int(11) NOT NULL AUTO_INCREMENT,
   `levels` varchar(255) COLLATE utf8_bin NOT NULL DEFAULT '' COMMENT '优先级',
